@@ -1,4 +1,4 @@
-﻿namespace SeleniumRunner.Contracts
+﻿namespace TrafficEstimator.Selenium.Contracts
 {
     public interface IPagePeer
     {

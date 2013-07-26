@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Configuration;
 
-namespace SeleniumRunner
+namespace TrafficEstimator.Selenium
 {
     public class Config
     {

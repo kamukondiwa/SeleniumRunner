@@ -3,7 +3,7 @@ using log4net;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
 
-namespace SeleniumRunner.Extensions
+namespace TrafficEstimator.Selenium.Extensions
 {
     public static class WebDriverExtensions
     {

@@ -1,9 +1,9 @@
 ﻿using OpenQA.Selenium;
-using SeleniumRunner.Extensions;
-using SeleniumRunner.Contracts;
-using SeleniumRunner.Pages;
+using TrafficEstimator.Selenium.Extensions;
+using TrafficEstimator.Selenium.Contracts;
+using TrafficEstimator.Selenium.Pages;
 
-namespace SeleniumRunner.Tasks
+namespace TrafficEstimator.Selenium.Tasks
 {
     public class FavouritesTask : ISeleniumTask
     {

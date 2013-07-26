@@ -1,8 +1,8 @@
 ﻿using System;
 using log4net;
-using SeleniumRunner.Contracts;
+using TrafficEstimator.Selenium.Contracts;
 
-namespace SeleniumRunner
+namespace TrafficEstimator.Selenium
 {
     public class Runner<TSeleniumTask> : IDisposable where TSeleniumTask : ISeleniumTask
     {

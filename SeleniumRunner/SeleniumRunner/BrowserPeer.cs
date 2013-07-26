@@ -4,7 +4,7 @@ using log4net;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 
-namespace SeleniumRunner
+namespace TrafficEstimator.Selenium
 {
     public class BrowserPeer
     {

@@ -1,7 +1,7 @@
 ﻿using OpenQA.Selenium;
-using SeleniumRunner.Contracts;
+using TrafficEstimator.Selenium.Contracts;
 
-namespace SeleniumRunner.Pages
+namespace TrafficEstimator.Selenium.Pages
 {
     public class LoginPage : IPagePeer
     {

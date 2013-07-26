@@ -1,12 +1,12 @@
-﻿using NUnit.Framework;
-using SeleniumRunner.Tasks;
+﻿//using NUnit.Framework;
+using TrafficEstimator.Selenium.Tasks;
 
-namespace SeleniumRunner
+namespace TrafficEstimator.Selenium
 {
-    [TestFixture]
+    //[TestFixture]
     public class RunnerTests
     {
-        [Test]
+        //[Test]
         public void CanGoToFavourites()
         {
             using (var runner = new Runner<FavouritesTask>())
